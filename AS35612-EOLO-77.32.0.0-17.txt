@@ -1,0 +1,129 @@
+77.32.0.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.1.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.2.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.3.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.4.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.5.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.6.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.7.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.8.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.9.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.10.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.11.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.12.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.13.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.14.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.15.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.16.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.17.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.18.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.19.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.20.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.21.1,192.178.203.102,wy-in-f102.1e100.net.
+77.32.22.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.23.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.24.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.25.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.26.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.27.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.28.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.29.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.30.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.31.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.32.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.33.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.34.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.35.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.36.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.37.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.38.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.39.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.40.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.41.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.42.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.43.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.44.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.45.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.46.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.47.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.48.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.49.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.50.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.51.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.52.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.53.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.54.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.55.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.56.1,192.178.203.100,wy-in-f100.1e100.net.
+77.32.57.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.58.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.59.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.60.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.61.1,192.178.203.102,wy-in-f102.1e100.net.
+77.32.62.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.63.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.64.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.65.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.66.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.67.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.68.1,142.251.38.14,lcmcta-ac-in-f14.1e100.net.
+77.32.69.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.70.1,192.178.204.102,wz-in-f102.1e100.net.
+77.32.71.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.72.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.73.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.74.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.75.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.76.1,142.251.39.174,ncmrsb-ak-in-f14.1e100.net.
+77.32.77.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.78.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.79.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.80.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.81.1,172.217.208.113,hy-in-f113.1e100.net.
+77.32.82.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.83.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.84.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.85.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.86.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.87.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.88.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.89.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.90.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.91.1,142.250.184.110,invalid: multiple PTRs returned
+77.32.92.1,192.178.170.102,ii-in-f102.1e100.net.
+77.32.93.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.94.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.95.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.96.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.97.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.98.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.99.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.100.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.101.1,142.251.142.78,ncmrsa-al-in-f14.1e100.net.
+77.32.102.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.103.1,192.178.202.100,wx-in-f100.1e100.net.
+77.32.104.1,142.251.141.238,tzmila-ac-in-f14.1e100.net.
+77.32.105.1,142.251.140.110,invalid: multiple PTRs returned
+77.32.106.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.107.1,74.125.90.78,invalid: multiple PTRs returned
+77.32.108.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.109.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.110.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.111.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.112.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.113.1,192.178.202.113,wx-in-f113.1e100.net.
+77.32.114.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.115.1,192.178.204.101,wz-in-f101.1e100.net.
+77.32.116.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.117.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.118.1,142.251.209.46,invalid: multiple PTRs returned
+77.32.119.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.120.1,192.178.170.101,ii-in-f101.1e100.net.
+77.32.121.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.122.1,172.217.23.78,invalid: multiple PTRs returned
+77.32.123.1,172.217.168.142,tzmila-af-in-f14.1e100.net.
+77.32.124.1,142.250.181.174,invalid: multiple PTRs returned
+77.32.125.1,172.217.169.238,invalid: multiple PTRs returned
+77.32.126.1,192.178.170.102,ii-in-f102.1e100.net.
+77.32.127.1,172.217.23.174,invalid: multiple PTRs returned
+77.32.128.1,142.250.151.138,st-in-f138.1e100.net.
