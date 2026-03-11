@@ -158,12 +158,12 @@ $
 Files generated per:
 
 ```
-$ ./iterate.sh 2.112. 255 >AS3269-TIM-2.112.0.0-16.txt
-$ ./iterate.sh 2.224. 255 >AS12874-FASTWEB-2.224.0.0-16.txt
-$ ./iterate.sh 2.41. 255 >AS30722-VODAFONE-2.41.0.0-16.txt
-$ ./iterate.sh 151.21. 255 >ASAS1267-WINDTRE-151.21.0.0-16.txt
-$ ./iterate.sh 213.205. 255 >AS8612-TISCALI-213.205.0.0-16.txt
-$ ./iterate.sh 77.32. 128 >AS35612-EOLO-77.32.0.0-17.txt
+$ ./iterate-ips-google-cdn-lookup.sh 2.112. 255 >AS3269-TIM-2.112.0.0-16.txt
+$ ./iterate-ips-google-cdn-lookup.sh 2.224. 255 >AS12874-FASTWEB-2.224.0.0-16.txt
+$ ./iterate-ips-google-cdn-lookup.sh 2.41. 255 >AS30722-VODAFONE-2.41.0.0-16.txt
+$ ./iterate-ips-google-cdn-lookup.sh 151.21. 255 >ASAS1267-WINDTRE-151.21.0.0-16.txt
+$ ./iterate-ips-google-cdn-lookup.sh 213.205. 255 >AS8612-TISCALI-213.205.0.0-16.txt
+$ ./iterate-ips-google-cdn-lookup.sh 77.32. 128 >AS35612-EOLO-77.32.0.0-17.txt
 ```
 
 
