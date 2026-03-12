@@ -5,7 +5,7 @@ Google makes DNS load-balancing decisions based on the client IP address (or mor
 
 **A GGC cluster in the middlea east (UAE) named lcmcta appears to be misconfigured and attracts traffic for customers in Italy, Europe, a different continent and more than 100ms+ latency away.**
 
-Also impacted at least the following souther european countries:
+Also impacted at least the following southern European countries:
 
 - Croatia
 - Hungary
