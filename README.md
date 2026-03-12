@@ -5,6 +5,18 @@ Google makes DNS load-balancing decisions based on the client IP address (or mor
 
 **A GGC cluster in the middlea east (UAE) named lcmcta appears to be misconfigured and attracts traffic for customers in Italy, Europe, a different continent and more than 100ms+ latency away.**
 
+Also impacted at least the following souther european countries:
+
+- Croatia
+- Hungary
+- Serbia
+- Bulgaria
+- Albania
+- Greece
+- Malta
+- Romania
+
+
 ## This is what this leads to:
 
 ```
@@ -94,7 +106,7 @@ Indeed all Italian networks are affected, here is an excerpt:
 - 1 out of 256 /24 in 213.205.0.0/16 are mapped to a middle eastern Google Global Cache cluster "lcmcta", 100ms+ latency far away
 - AS8612-TISCALI-213.205.0.0-16.txt
 
-### Eolo SpA (35612)
+### Eolo SpA (AS35612)
 - 1 out of 128 /24 in 77.32.0.0/17 are mapped to a middle eastern Google Global Cache cluster "lcmcta", 100ms+ latency far away
 - AS35612-EOLO-77.32.0.0-17.txt
 
