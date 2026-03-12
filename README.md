@@ -194,5 +194,5 @@ $ ./iterate-ips-google-cdn-lookup.sh 77.32. 128 >AS35612-EOLO-77.32.0.0-17.txt
 
 ## Google NOC Ticket
 
-Google NOC Ticket 2588682096 is currently under review.
+Google NOC Ticket 2588682096 as well as 2176711238 is currently under review.
 
