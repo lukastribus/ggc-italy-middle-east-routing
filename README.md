@@ -2,7 +2,11 @@
 
 Google makes DNS load-balancing decisions based on the client IP address (or more precisely the /24), mapping a /24 to a specific GGC cluster, based on the specific GGC clusters available for the particolar country. This is done by using EDNS client subnet or, if the EDNS client subnet is missing, the source IP of the DNS request arriving at Google authoritative DNS servers.
 
+## Update 2026/03/16
 
+At approximately Friday, March 13th 2200 UTC the issue was solved.
+
+## Details
 **A GGC cluster in the middlea east (UAE) named lcmcta appears to be misconfigured and attracts traffic for customers in Italy, Europe, a different continent and more than 100ms+ latency away.**
 
 Also impacted at least the following Southern European countries:
